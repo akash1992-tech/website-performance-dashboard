@@ -45,3 +45,4 @@ The dataset `website_performance_analytics.csv` contains the following variables
 - Sorted the visitor table by Conversion Rate (Descending)
 
 ## 📂 Project Structure
+/website-performance-dashboard │ ├── README.md ✅ Project Documentation ├── website_performance_analytics.csv ✅ Dataset └── Website_Performance_Dashboard.pbix ✅ Power BI Project File
